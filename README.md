@@ -73,6 +73,10 @@ sysopctl system load
 Starts or stops a specific service, akin to using `systemctl start/stop`.
 
 
+**Start a Service:**
+```
+sysopctl service Start <service-name>
+```
 **Stop a Service:**
 ```
 sysopctl service stop <service-name>
