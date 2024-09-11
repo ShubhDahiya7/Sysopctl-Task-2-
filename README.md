@@ -104,6 +104,8 @@ Monitors real-time process activity, similar to the `top` or `htop` commands.
 ```
 sysopctl process monitor
 ```
+![Screenshot from 2024-09-11 15-34-39](https://github.com/user-attachments/assets/873cead7-085c-4953-bf3a-8eddb32eace2)
+
 
 
 ##### 2. Analyze System Logs
@@ -113,6 +115,8 @@ Analyzes and summarizes recent critical log entries, utilizing tools like `journ
 ```
 sysopctl logs analyze
 ```
+![logs](https://github.com/user-attachments/assets/00e00828-f457-498f-9281-8dd1aff30db8)
+
 
 ##### 3. Backup System Files
 Initiates a backup of specified files or directories, potentially using `rsync` for file transfers.
@@ -121,6 +125,8 @@ Initiates a backup of specified files or directories, potentially using `rsync` 
 ```
 sysopctl backup <path>
 ```
+![backup](https://github.com/user-attachments/assets/5d5bdd4e-5edb-43f3-a6a1-9342b726a5d5)
+
 
 
 
