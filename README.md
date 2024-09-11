@@ -88,6 +88,7 @@ Displays disk usage statistics by partition, similar to `df -h`.
 ```
 sysopctl disk usage
 ```
+![disk usage](https://github.com/user-attachments/assets/6f088e67-3c88-4560-9866-0a63de835a4d)
 
 
 #### Part 3: Advanced Level
