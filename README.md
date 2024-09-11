@@ -113,7 +113,7 @@ Analyzes and summarizes recent critical log entries, utilizing tools like `journ
 
 **Command:**
 ```
-sysopctl logs analyze
+sysopctl logs analyse
 ```
 ![logs](https://github.com/user-attachments/assets/00e00828-f457-498f-9281-8dd1aff30db8)
 
